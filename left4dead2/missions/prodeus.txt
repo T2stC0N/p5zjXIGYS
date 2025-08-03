@@ -1,0 +1,147 @@
+"mission"
+{
+	"Name"		"prodeus"
+	"Version"	"1"
+	"Author"	"7EMP3ST"
+	"Website"	"https://steamcommunity.com/id/7EMP3ST/"
+
+	"DisplayTitle"	"Prodeus Requiem"
+	"Description"		"No Rest for the Wicked"
+	"Image"			"LoadingScreen_req_widescreen"
+	"OuttroImage"	"vgui/outroTitle_req"
+
+	"survivor_set"		"2"		// Which set of survivors should be used. 1=L4D1, 2=L4D2
+	
+	"meleeweapons"	"machete;fireaxe;frying_pan;katana;shovel;knife;pitchfork;tonfa;guitar;baseball_bat;cricket_bat;kopis;spear;keycard"
+
+	// Loading poster data
+	"poster"
+	{
+		"posterImage"		"LoadingScreen_req"
+		"posterImage_widescreen"	"LoadingScreen_req_widescreen"
+		"fullscreen"		"1"
+		
+		"posterTitle"		"Golden Experience"
+		"posterTitle_y"		"320"
+		
+		"posterTagline"		"Biggus Dickkus"
+		"posterTagline_y"	"380"
+		
+		"character_order"		"gambler;mechanic;producer;coach"
+	}
+
+
+	"modes"
+	{
+		"coop"
+		{
+			"1"
+			{
+				"Map" "requiem_01"
+				"DisplayName" "Aleph"
+				"Image" "maps/req_01"
+			}
+
+			"2"
+			{
+				"Map" "requiem_02"
+				"DisplayName" "Ascension"
+				"Image" "maps/req_02"
+			}
+			
+			"3"
+			{
+				"Map" "requiem_03"
+				"DisplayName" "Immortal Garden"
+				"Image" "maps/req_03"
+			}	
+			
+			"4"
+			{
+				"Map" "requiem_04"
+				"DisplayName" "Night at the Museum"
+				"Image" "maps/req_04"
+			}
+			
+			"5"
+			{
+				"Map" "requiem_05"
+				"DisplayName" "Steel Ball Run"
+				"Image" "maps/req_05"
+			}
+		}
+
+		"versus"
+		{
+			"1"
+			{
+				"Map" "requiem_01"
+				"DisplayName" "Aleph"
+				"Image" "maps/req_01"
+				"VersusCompletionScore"	"500"
+				"versus_boss_spawning"
+  				{
+  					"spawn_pos_min"		"0.15"
+  					"tank_chance"		"1"
+  					"witch_chance"		"1"
+  				}
+			}
+
+			"2"
+			{
+				"Map" "requiem_02"
+				"DisplayName" "Ascending"
+				"Image" "maps/req_02"
+				"VersusCompletionScore"	"600"
+				"versus_boss_spawning"
+  				{
+  					"spawn_pos_min"		"0.15"
+  					"tank_chance"		"1"
+  					"witch_chance"		"1"
+  				}
+			}
+			
+			"3"
+			{
+				"Map" "requiem_03"
+				"DisplayName" "Immortal Garden"
+				"Image" "maps/req_03"
+				"VersusCompletionScore"	"700"
+				"versus_boss_spawning"
+  				{
+  					"spawn_pos_min"		"0.15"
+  					"tank_chance"		"1"
+  					"witch_chance"		"1"
+  				}
+			}
+			
+			"4"
+			{
+				"Map" "requiem_04"
+				"DisplayName" "Night at the Museum"
+				"Image" "maps/req_04"
+				"VersusCompletionScore"	"800"
+				"versus_boss_spawning"
+  				{
+  					"spawn_pos_min"		"0.15"
+  					"tank_chance"		"1"
+  					"witch_chance"		"1"
+  				}
+			}
+			
+			"5"
+			{
+				"Map" "requiem_05"
+				"DisplayName" "Steel Ball Run"
+				"Image" "maps/req_05"
+				"VersusCompletionScore"	"900"
+				"versus_boss_spawning"
+  				{
+  					"spawn_pos_min"		"0.15"
+  					"tank_chance"		"1"
+  					"witch_chance"		"1"
+  				}
+			}
+		}
+	}
+}

@@ -1,0 +1,7 @@
+"unlitgeneric"
+{
+	"$basetexture" "TUMTaRA/fakeclip"
+	$nodecal "1"
+	$surfaceprop default_silent
+	$translucent 1
+}

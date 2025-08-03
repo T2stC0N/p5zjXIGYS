@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/hikari/body"
+	$bumpmap "dev/flat_normal"
+	$lightwarptexture "models/hikari/facewarp"
+
+	"$halflambert" 1
+	"$nodecal" 1
+}

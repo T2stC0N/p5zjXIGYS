@@ -1,0 +1,5 @@
+LightmappedGeneric
+{
+	$basetexture "dec/art4"
+	$surfaceprop glass
+}

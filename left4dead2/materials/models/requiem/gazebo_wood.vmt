@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$baseTexture "wood/woodsiding_ext_a01"
+	$blendtintbybasealpha	1
+
+}

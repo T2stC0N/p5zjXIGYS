@@ -1,0 +1,10 @@
+Refract
+{
+	"$normalmap" "models\requiem\sfglass_n"
+	//$refracttinttexture "models\props_Doors/Door_rotate_112_glass"
+	$refractamount -0.01
+	
+	$translucent 1
+	$forcerefract 1
+	$bluramount 2
+}

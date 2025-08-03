@@ -1,0 +1,50 @@
+<!-- dmx encoding keyvalues2 1 format dmx 1 -->
+"DmeColorCorrectionOperatorList"
+{
+	"id" "elementid" "60cf86a6-9bb4-4e67-a733-6c758c5b4f56"
+	"operators" "element_array" 
+	[
+		"CDmeColorCorrectionColorBalanceOp"
+		{
+			"id" "elementid" "78fd985b-031a-4fa0-9d4a-4f0826f9ad38"
+			"blendFactor" "float" "1"
+			"cyanRedBalance" "float_array" 
+			[
+				"15",
+				"24",
+				"-24"
+			]
+			"enabled" "bool" "1"
+			"magentaGreenBalance" "float_array" 
+			[
+				"-10",
+				"7",
+				"-19"
+			]
+			"name" "string" "Balance"
+			"preserveLuminosity" "bool" "1"
+			"yellowBlueBalance" "float_array" 
+			[
+				"-7",
+				"-5",
+				"-10"
+			]
+		},
+		"CDmeColorCorrectionCurvesOp"
+		{
+			"id" "elementid" "28fd6c36-c748-459d-803e-648fe0751260"
+			"blendFactor" "float" "1"
+			"channelMask" "int" "7"
+			"controlPoints" "vector3_array" 
+			[
+				"0 0 0",
+				"0.2513088882 0.2460733056 0",
+				"0.7801046968 0.8272251487 0",
+				"1 1 0"
+			]
+			"enabled" "bool" "1"
+			"name" "string" "Curves"
+		}
+	]
+}
+

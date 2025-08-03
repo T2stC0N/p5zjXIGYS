@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models\props_glub\sis\elder_sis"						
+
+	"$phong" "0"
+	"$phongexponent" "2"
+	"$phongboost" "1"	
+	"$lightwarptexture" "models\survivors\coach\coach_head_wrp"
+	"$phongfresnelranges"	"[.25 .5 2]"
+	"$nocull" 1
+
+}

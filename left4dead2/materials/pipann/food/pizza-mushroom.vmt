@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+
+	$basetexture "pipann/food/pizza-mushroom"
+	$phongexponenttexture "pipann/food/pizza_PHONG"
+	$bumpmap "pipann/food/pizza-mushroom_NRM"
+
+
+	 $phong "1"
+	 $phongboost  "1.0" 
+	 $phongfresnelranges "[0 0.5 1]"
+}

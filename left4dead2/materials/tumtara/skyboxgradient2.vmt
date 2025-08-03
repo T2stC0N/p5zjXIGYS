@@ -1,0 +1,7 @@
+WorldVertexTransition
+{
+$basetexture "dev/dev_measuregeneric01_grey"
+$vertexcolor 1
+$vertexalpha 1
+
+}

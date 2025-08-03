@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	$basetexture "req/castle_brick"
+	$bumpmap "req/castle_brick_n"
+	$srgbtint "[ .9 1 1.1 ]"
+	$surfaceprop Concrete
+}

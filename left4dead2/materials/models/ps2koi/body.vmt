@@ -1,0 +1,16 @@
+VertexLitGeneric
+{
+
+$baseTexture "models\ps2koi\body"
+$bumpmap "models\ps2koi\body_n"
+$phongexponenttexture	"vgui/white"
+
+$alphatest	1
+$alphatestreference	.64
+
+$phong	1
+$phongboost	1
+$phongfresnelranges	"[3 1 9]"
+$phongexponent		"42"
+$phongalbedotint		"1" 
+}

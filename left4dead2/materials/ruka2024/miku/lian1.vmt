@@ -1,0 +1,27 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "ruka2024/miku/lian1"
+	"$lightwarptexture" 	"ruka2024/miku/basewarp"
+	"$bumpmap" "ruka2024/miku/normal"
+	"$phongexponenttexture" "ruka2024/miku/phong_exp"
+    $nocull 1
+    $nodecal 1
+	
+    $phong "1"
+    $phongboost	".02"
+    $phongalbedotint "1"
+    $phongfresnelranges	"[.1 .1 .1]"
+    $PhongExponent "1.0"
+
+    $halflambert "1"
+	
+    $alphatest 1
+    $alphatestreference 0.7
+    $allowalphatocoverage 1
+	
+	$detail "ruka2024/miku/lian1"
+	$detailscale 1
+	$detailblendfactor 0.05  
+	$detailblendmode 5      
+    $detailtinr 1 1 1            	
+}

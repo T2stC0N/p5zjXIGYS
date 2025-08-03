@@ -1,0 +1,15 @@
+UnlitGeneric
+{
+$baseTexture "glass\screen_static"
+ 
+"Proxies"
+{
+"AnimatedTexture"
+{
+"animatedTextureVar" "$basetexture"
+"animatedTextureFrameNumVar" "$frame"
+"animatedTextureFrameRate" "16"
+}
+}
+
+}

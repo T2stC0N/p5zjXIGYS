@@ -1,0 +1,63 @@
+"mission"
+{
+	"Name"			"TUMTaRAL4D1noboomette"
+	"Version"		"1"
+	"Author"		"Funreal"
+	"Website"		"https://steamcommunity.com/workshop/filedetails/?id=469986973"
+	"DisplayTitle"		"TUMTaRA L4D1 Players"
+	"Description"  		"The Ultimate Mod Testing and Reviewing Area"
+	
+	"Image"			" "
+	"OuttroImage"		" "
+	
+	"meleeweapons"	"HandInspector;fireaxe;frying_pan;machete;baseball_bat;crowbar;cricket_bat;tonfa;katana;electric_guitar;knife;golfclub;riotshield;pitchfork;shovel"
+	"survivor_set"		"1"	// Which set of survivors should be used. 1=L4D1, 2=L4D2
+	"excludeweapons"  ""
+
+	"allow_cola"	"1"
+	"no_wpn_restore"	"1"		// on player wipe, don't keep any weapons
+	"no_female_boomers"	"1"		// Can't have female Boomers because there's no audio support
+	"no_cs_weapons"		"0"		// no Germany / CS weapons, preserve the weapons in the gun shop
+	
+	"poster"
+	{
+		// This determines which survivor set names to use in the loading screen.
+		"l4d2_names"				"0"
+		"character_order"		"namvet;manager;teengirl;biker"
+
+		"fullscreen"		"1"
+		"posterImage"			"maps/TUMTaRA_Loadingscreen"
+		"posterImage_widescreen" "maps/TUMTaRA_Loadingscreen"
+	}
+	"modes"
+	{
+		"coop"
+		{
+			"1"
+			{
+				"Map" "tumtara_l4d1_playground"
+				"DisplayName" "Playground L4D1"
+				"Image" "maps/preview_01"	
+
+			}
+
+		}
+		"versus"
+		{
+			"1"
+			{
+				"Map" "tumtara_l4d1_playground"
+				"DisplayName" "L4D1 Playground"
+				"Image" "maps/preview_01"		
+				"TankVariant" "models/infected/hulk_l4d1.mdl"
+				"HunterVariant" "models/infected/hunter_l4d1.mdl"
+				"SmokerVariant" "models/infected/smoker_l4d1.mdl"
+				"BoomerVariant" "models/infected/boomer_l4d1.mdl"
+				"TankArmsVariant" "models\v_models\weapons\v_claw_hulk_L4D1.mdl"
+				"HunterArmsVariant" "models\v_models\weapons\v_claw_hunter_l4d1.mdl"
+				"SmokerArmsVariant" "models\v_models\weapons\v_claw_smoker_l4d1.mdl"
+				"BoomerArmsVariant" "models\v_models\weapons\v_claw_boomer_l4d1.mdl"
+			}
+		}			
+	}
+} 

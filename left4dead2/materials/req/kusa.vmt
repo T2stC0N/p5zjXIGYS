@@ -1,0 +1,9 @@
+LightmappedGeneric
+{
+	$basetexture "req/kusa"
+	$bumpmap "req/kusa_ssbump"
+	$surfaceprop grass
+	
+	$ssbump	1
+	$ssbumpmathfix	1
+}

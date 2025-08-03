@@ -1,0 +1,5 @@
+LightmappedGeneric
+{
+	$basetexture "dec/sign2"
+	$surfaceprop metal
+}

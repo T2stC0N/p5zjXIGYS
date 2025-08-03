@@ -1,0 +1,5 @@
+LightmappedGeneric
+{
+$baseTexture "liquids/bloodpool_surface"
+$alpha 0.3
+}

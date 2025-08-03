@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture"  "models/glub_items/barney/BX_Chrome1"
+	"$phong" "0"
+	"$phongexponent" "15"
+	"$phongboost" "1"	
+	$lightwarptexture "models\survivors\coach\coach_head_wrp"
+	"$phongfresnelranges"	"[.25 .5 2]"
+}

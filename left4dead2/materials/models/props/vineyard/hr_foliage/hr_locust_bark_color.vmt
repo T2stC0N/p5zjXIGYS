@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 	"models\props\vineyard\hr_foliage\bark"
+
+	"$bumpmap"	"models\props\vineyard\hr_foliage\bark_n"
+
+	
+
+
+}

@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models\glub\sd_glasses\sd_glasses"
+	"$bumpmap" "models\glub\sd_glasses\sd_glasses_normal"								
+
+	"$phong" "1"
+	"$phongexponent" "15"
+	"$phongboost" "5"	
+	$lightwarptexture "models\survivors\coach\coach_head_wrp"
+	"$phongfresnelranges"	"[.25 .5 2]"
+
+}

@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models\props_glub\sis\reject_sis"						
+$halflambert 0
+$phong 1
+$allowdiffusemodulation 0
+$diffuseexp 1
+$lightwarptexture "models\survivors\gambler\gambler_head_wrp"
+}

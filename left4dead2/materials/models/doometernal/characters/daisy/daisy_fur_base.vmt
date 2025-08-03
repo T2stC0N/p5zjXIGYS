@@ -1,0 +1,24 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/DOOMEternal\characters\Daisy\daisy_fur"
+
+   	"$surfaceprop" "flesh"
+	"$phong" "1"
+	"$phongfresnelranges"	"[0.5 4.75 5]"
+	"$phongboost"	".2"
+	"$envmaptint"	"[.135 .135 .135]"
+	"$envmapfresnel"	"1.4"
+	"$halflambert" "1"
+	"$ambientocclusion" "1"
+
+
+
+
+	"$cloakPassEnabled" 		"1"						
+	"$phongfresnelranges"	"[ .2 1.2 8]"	
+
+
+	"$nocull" "1"
+
+
+}

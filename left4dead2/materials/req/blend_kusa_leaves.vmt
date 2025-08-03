@@ -1,0 +1,16 @@
+WorldVertexTransition
+{
+$basetexture2 "req/kusa"
+$basetexture "req/leaves"
+
+$bumpmap	"req/kusa_ssbump"
+
+$ssbump	1
+$ssbumpmathfix	1
+
+$blendmodulatetexture	"lighthouse/blend/modulate_leaves"
+$surfaceprop2 grass
+$surfaceprop dirt
+
+%detailtype urban_overgrown
+}

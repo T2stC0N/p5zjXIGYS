@@ -1,0 +1,258 @@
+// Prodeus sound script
+// Author: 7empest
+//weapon
+
+"kopis.impactworld"
+{
+	"channel"		"CHAN_WEAPON"
+	"soundlevel"	"SNDLVL_50dB"
+	"pitch"			"80,120"
+	"volume"		"0.7,1"
+
+	"wave"		"weapons/kopis/kopis_impact_world1.wav"
+	"wave"		"weapons/kopis/kopis_impact_world2.wav"
+}
+
+"kopis.impactflesh"
+{
+	"channel"		"CHAN_WEAPON"
+	"soundlevel"	"SNDLVL_50dB"
+	"pitch"			"80,120"
+	"volume"		"0.7,1"
+
+	"wave"		"weapons/kopis/kopis_impact_flesh1.wav"
+	"wave"		"weapons/kopis/kopis_impact_flesh2.wav"
+	"wave"		"weapons/kopis/kopis_impact_flesh3.wav"
+	"wave"		"weapons/kopis/kopis_impact_flesh4.wav"
+}
+
+"kopis.miss"
+{
+	"channel"		"CHAN_WEAPON"
+	"soundlevel"	"SNDLVL_50dB"
+	"pitch"			"80,120"
+	"volume"		"0.7,1"
+
+	"wave"		"weapons/kopis/kopis_swing_miss2.wav"
+	"wave"		"weapons/kopis/kopis_swing_miss1.wav"
+}
+"kopis.deploy"
+{
+	"channel"		"CHAN_AUTO"
+	"soundlevel"	"SNDLVL_50dB"
+	"pitch"			"80,120"
+	"volume"		"0.7,1"
+
+	"wave"		"weapons/kopis/kopis_deploy_1.wav"
+}
+"kopis.catch"
+{
+	"channel"		"CHAN_AUTO"
+	"soundlevel"	"SNDLVL_50dB"
+	"pitch"			"80,120"
+	"volume"		"0.7,1"
+
+	"wave"		"weapons/kopis/kopis_catch.wav"
+}
+
+"spear.impactworld"
+{
+	"channel"		"CHAN_WEAPON"
+	"soundlevel"	"SNDLVL_50dB"
+	"pitch"			"80,120"
+	"volume"		"0.7,1"
+
+	"wave"		"weapons/spear/spear_impact_world1.wav"
+	"wave"		"weapons/spear/spear_impact_world2.wav"
+}
+
+"spear.impactflesh"
+{
+	"channel"		"CHAN_WEAPON"
+	"soundlevel"	"SNDLVL_50dB"
+	"pitch"			"80,120"
+	"volume"		"0.7,1"
+
+	"wave"		"weapons/spear/spear_impact_flesh1.wav"
+	"wave"		"weapons/spear/spear_impact_flesh2.wav"
+	"wave"		"weapons/spear/spear_impact_flesh3.wav"
+	"wave"		"weapons/spear/spear_impact_flesh4.wav"
+}
+"spear.impale"
+{
+	"channel"		"CHAN_WEAPON"
+	"soundlevel"	"SNDLVL_50dB"
+	"pitch"			"80,120"
+	"volume"		"0.7,1"
+
+	"wave"		"weapons/spear/spear_impale.wav"
+}
+"spear.miss"
+{
+	"channel"		"CHAN_WEAPON"
+	"soundlevel"	"SNDLVL_50dB"
+	"pitch"			"80,120"
+	"volume"		"0.7,1"
+
+	"wave"		"weapons/spear/spear_swing_miss2.wav"
+	"wave"		"weapons/spear/spear_swing_miss1.wav"
+}
+
+"spear.deploy"
+{
+	"channel"		"CHAN_AUTO"
+	"soundlevel"	"SNDLVL_50dB"
+	"pitch"			"80,120"
+	"volume"		"0.7,1"
+
+	"wave"		"weapons/spear/spear_deploy_1.wav"
+}
+"clickity_clack"
+{
+	"channel"		"CHAN_AUTO"
+	"soundlevel"	"SNDLVL_60dB"
+	"pitch"			"80,120"
+	"volume"		"1"
+
+	"wave"		"requiem/keyboard.wav"
+}
+"train_activate"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_NONE"
+	"pitch"			"90,110"
+
+	"wave"	"requiem/train_start.wav"
+}
+"train_eng"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_140dB"
+	"pitch"			"100"
+
+	"wave"	"requiem/train_start.wav"
+}
+"train_rail"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_90dB"
+	"pitch"			"100,120"
+
+	"wave"	"requiem/train_loop0.wav"
+}
+"train_hit"
+{
+	"channel"		"CHAN_STATIC"
+	"soundlevel"	"SNDLVL_140dB"
+	"pitch"			"85,120"
+	"volume"		"1"
+
+	"wave"		"requiem/train_Hit_01.wav"
+	"wave"		"requiem/train_Hit_02.wav"
+}
+"train_honk"
+{
+	"channel"		"CHAN_STATIC"
+	"soundlevel"	"SNDLVL_140dB"
+	"pitch"			"95,100"
+	"volume"		"1"
+
+	"wave"		"requiem/train_honk.wav"
+}
+"car68_engine"
+{
+	"channel"		"CHAN_AUTO"
+	"soundlevel"	"SNDLVL_90dB"
+	"pitch"			"90,100"
+	"volume"		"1"
+
+	"wave"		"requiem/car68_eng.wav"
+	"wave"		"requiem/car13_eng.wav"
+	"wave"		"requiem/car38_exh.wav"
+	"wave"		"requiem/car40_exh.wav"
+}
+"car_city_horn"
+{
+	"channel"		"CHAN_AUTO"
+	"soundlevel"	"SNDLVL_110dB"
+	"pitch"			"90,115"
+	"volume"		"1"
+
+	"wave"		"requiem/horn_01.wav"
+	"wave"		"requiem/horn_02.wav"
+	"wave"		"requiem/horn_03.wav"
+}
+"car_city_engine"
+{
+	"channel"		"CHAN_AUTO"
+	"soundlevel"	"SNDLVL_90dB"
+	"pitch"			"90,100"
+	"volume"		"1"
+
+	"wave"		"requiem/car00_eng.wav"
+	"wave"		"requiem/car12_eng.wav"
+	"wave"		"requiem/car47_eng.wav"
+	"wave"		"requiem/car28_exh.wav"
+	"wave"		"requiem/car25_eng.wav"
+	"wave"		"requiem/car18_exh.wav"
+}
+"toaster_ding"
+{
+	"channel"		"CHAN_AUTO"
+	"soundlevel"	"SNDLVL_70dB"
+	"pitch"			"85,120"
+	"volume"		"1"
+
+	"wave"		"requiem/toaster.wav"
+}
+"requiem_train_bell"
+{
+	"channel"		"CHAN_AUTO"
+	"soundlevel"	"SNDLVL_90dB"
+	"pitch"			"85,120"
+	"volume"		"1"
+
+	"wave"		"requiem/train_horn.wav"
+}
+"car_hit"
+{
+	"channel"		"CHAN_AUTO"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"			"85,120"
+	"volume"		"1"
+
+	"wave"		"requiem/car_hit1.wav"
+	"wave"		"requiem/car_hit2.wav"
+}
+
+"player.eat"
+{
+    "channel"       "CHAN_STATIC"
+    "volume"        "1"
+    "pitch"			"94,125"
+    "soundlevel"    "SNDLVL_60dB"
+    
+    "rndwave"
+    {
+        "wave"            "player/eat1.wav"
+        "wave"            "player/eat2.wav"
+        "wave"            "player/eat3.wav"
+        "wave"            "player/eat4.wav"
+    }
+}
+
+"Angel24.Irasshaimase"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1"
+    "pitch"			"100"
+	"soundlevel"	"SNDLVL_80dB"
+	
+	"wave"			"music/Irasshaimase.wav"
+}
+
+#include "req/req_music.txt"
+

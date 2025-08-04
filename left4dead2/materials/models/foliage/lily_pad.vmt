@@ -1,0 +1,13 @@
+VertexLitGeneric
+{
+	$basetexture "models\foliage/lily_pad"
+	$bumpmap "models\foliage/lily_pad_normals"
+
+	$nocull 1
+
+	$phong 1
+	$phongfresnelranges "[0.6 0.8 1]"
+	$phongtint "[0.66 0.77 0.31]"
+	$phongexponent 80
+	$phongboost 2
+}

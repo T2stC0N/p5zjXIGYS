@@ -1,0 +1,6 @@
+LightmappedGeneric
+{
+	$basetexture "req/red_tile_large"
+	$bumpmap "req/red_tile_large_n"
+	$surfaceprop	tile
+}

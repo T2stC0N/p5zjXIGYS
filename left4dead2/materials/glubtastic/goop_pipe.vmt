@@ -1,0 +1,14 @@
+LightmappedGeneric
+{
+	"$basetexture" "glubtastic/goop_pipe"
+	"%keywords" glubtastic
+"Proxies"
+{
+"AnimatedTexture"
+{
+"animatedTextureVar" "$basetexture"
+"animatedTextureFrameNumVar" "$frame"
+"animatedTextureFrameRate" "35"
+}
+}
+}

@@ -1,0 +1,6 @@
+LightmappedGeneric
+{
+	$basetexture "req/tree_line"
+	$alphatest	1
+	$allowalphatocoverage	1
+}

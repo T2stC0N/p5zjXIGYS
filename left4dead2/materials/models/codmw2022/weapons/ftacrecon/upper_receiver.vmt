@@ -1,0 +1,23 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\codmw2022\weapons\ftacrecon\upper_receiver_d"
+	"$bumpmap" "models\codmw2022\weapons\ftacrecon\upper_receiver_n"
+	"$color2" "[0.5 0.5 0.5]"
+	"$nocull" "1"
+   	"$halflambert" "1"
+	"$nodecal" "1"
+
+	"$phong" "1"
+	"$phongboost" "2"
+	"$phongexponent" "20"
+	"$phongfresnelranges"	"[1.5 3 4]"
+	"$phongexponenttexture" "models\codmw2022\weapons\ftacrecon\upper_receiver_e"
+	
+	"$envmap" 					 "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmaptint" "[0.02 0.02 0.02]"		
+	//"$phongtint" 			"[0.5 0.5 0.5]"			
+	"$PhongAlbedoTint" "1"	
+	
+	 $selfillum 1	
+}

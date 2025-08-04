@@ -1,0 +1,6 @@
+UnlitGeneric
+{
+$baseTexture "vgui\requiem_sqr"
+$ignorez 1
+$no_fullbright 1
+}

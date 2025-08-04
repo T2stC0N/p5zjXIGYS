@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/TILE/BATHROOMFLOOR-BASE.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/tgxl/c1768_2587_1288"
+	}
+}

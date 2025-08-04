@@ -1,0 +1,13 @@
+SpriteCard
+{
+$basetexture "particle/water_splash/water_splash"
+$distancealpha 1
+$softedges 0
+$edgesoftnessstart .5
+$edgesoftnessend .485
+
+$blendframes 1
+$maxsize .85
+$startfadesize .675
+$endfadesize .75
+}

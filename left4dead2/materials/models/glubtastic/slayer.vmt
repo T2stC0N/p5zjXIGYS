@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\glubtastic/slayer"
+	"$bumpmap" "models\glubtastic/slayer_nrm"
+
+	"$phong" "1"
+	"$phongexponent" "11"
+	"$phongboost" "0.4"	
+
+	"$lightwarptexture" "models\survivors\coach\coach_head_wrp"
+
+	"$phongfresnelranges"	"[1 1 1]"
+	"$halflambert" "1"
+}

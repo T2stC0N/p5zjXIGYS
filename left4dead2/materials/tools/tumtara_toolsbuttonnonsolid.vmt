@@ -1,0 +1,10 @@
+LightmappedGeneric
+{
+$basetexture "tools\TUMTaRA_toolsbuttonnonsolid"
+"%tooltexture" "tools\TUMTaRA_toolsbuttonnonsolid_icon"
+$translucent 1
+"%compilenodraw" 1
+"%compilenonsolid" 1
+"%compileDetail" 1
+"%keywords" ",tools,button,project_dev"
+}

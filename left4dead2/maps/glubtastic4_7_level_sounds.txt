@@ -1,0 +1,821 @@
+// Witch Zombie
+//------------------------------------------------------------------
+/// on the ground moaning
+"WitchZombie.Despair"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_90dB"
+	"pitch"			"95, 105"
+
+	"GameData"
+	{
+		"Priority"	"Interesting"
+	}
+
+	"rndwave"
+	{
+		"wave"	"glub/sisfiles/newsis1.mp3"
+		"wave"	"glub/sisfiles/sis12.mp3"
+		"wave"	"glub/sisfiles/sis15.mp3"
+		"wave"	"glub/sisfiles/sis16.mp3"
+		"wave"	"glub/sisfiles/sis19.mp3"
+		"wave"	"glub/sisfiles/sis27.mp3"
+		"wave"	"glub/sisfiles/sis26.mp3"
+	}
+}
+
+// Witch Zombie
+//------------------------------------------------------------------
+/// on the ground moaning
+"WanderWitchZombie.Despair"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_90dB"
+	"pitch"			"95, 105"
+
+
+	"rndwave"
+	{
+		"wave"	"glub/sisfiles/newsis1.mp3"
+		"wave"	"glub/sisfiles/bigsis3.mp3"
+		"wave"	"glub/sisfiles/bigsis5.mp3"
+		"wave"	"glub/sisfiles/sis20.mp3"
+		"wave"	"glub/sisfiles/sis22.mp3"
+		"wave"	"glub/sisfiles/sis19.mp3"
+	}
+}
+
+
+// beginning attack, during attack this happens but it is a re-beginning bug?
+"WitchZombie.Scream"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_90dB"
+	"pitch"			"95, 105"
+
+	"GameData"
+	{
+		"Priority"	"Critical"
+	}
+
+	"rndwave"
+	{
+		"wave"	"glub/sisfiles/sis14.mp3"
+		"wave"	"glub/sisfiles/sis18.mp3"
+		"wave"	"glub/sisfiles/sis24.mp3"
+		"wave"	"glub/sisfiles/bigsis6.mp3"
+	}
+}
+
+// attack
+"WitchZombie.Rage"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_90dB"
+	"pitch"			"95, 105"
+
+	"GameData"
+	{
+		"Priority"	"Interesting"
+	}
+
+	"rndwave"
+	{
+		"wave"	"glub/sisfiles/newsis6.mp3"
+	}
+}
+
+// she has knocked down her victim and now is building up for the killing frenzy - about 3 seconds long
+"WitchZombie.RageBeforeKillingFrenzy"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_90dB"
+	"pitch"			"95, 105"
+
+	"GameData"
+	{
+		"Priority"	"Interesting"
+	}
+
+	"rndwave"
+	{
+		"wave"	"glub/sisfiles/sis18.mp3"
+	}
+}
+
+
+// she is rapidly clawing at her incap victim, shredding them to bits
+"WitchZombie.KillingFrenzy"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_90dB"
+	"pitch"			"95, 105"
+
+	"GameData"
+	{
+		"Priority"	"Interesting"
+	}
+
+	"rndwave"
+	{
+		"wave"	"glub/sisfiles/bigsis9.mp3"
+	}
+}
+
+
+"WitchZombie.Surprised"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_90dB"
+	"pitch"			"95, 100"
+
+	"GameData"
+	{
+		"Priority"	"Interesting"
+	}
+
+	"rndwave"
+	{
+		"wave"	"glub/sisfiles/bigsis3.mp3"
+		"wave"	"glub/sisfiles/sis9.mp3"
+		"wave"	"glub/sisfiles/sis14.mp3"
+		"wave"	"glub/sisfiles/sis25.mp3"
+		"wave"	"glub/sisfiles/newsis6.mp3"
+
+	}
+}
+
+"WitchZombie.Pain"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_90dB"
+	"pitch"			"95, 100"
+
+	"GameData"
+	{
+		"Priority"	"Interesting"
+	}
+
+	"rndwave"
+	{
+		"wave"	"glub/sisfiles/sis1.mp3"
+		"wave"	"glub/sisfiles/sis2.mp3"
+	}
+}
+
+"WitchZombie.PainFire"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_90dB"
+	"pitch"			"95, 105"
+
+	"GameData"
+	{
+		"Priority"	"Interesting"
+	}
+
+	"rndwave"
+	{
+		"wave"	"glub/sisfiles/sis11.mp3"
+		"wave"	"glub/sisfiles/sis12.mp3"
+	}
+}
+
+// increasing warnings
+"WitchZombie.GrowlLow"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_100dB"
+	"pitch"			"95, 100"
+
+	"GameData"
+	{
+		"Priority"	"Interesting"
+	}
+
+		"wave"	"glub/sisfiles/sis20.mp3"
+}
+
+
+"WitchZombie.GrowlMedium"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_100dB"
+	"pitch"			"100, 105"
+
+	"GameData"
+	{
+		"Priority"	"Interesting"
+	}
+
+		"wave"	"glub/sisfiles/sis22.mp3"
+}
+
+
+"WitchZombie.GrowlHigh"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_100dB"
+	"pitch"			"95, 105"
+
+	"GameData"
+	{
+		"Priority"	"Interesting"
+	}
+
+	"rndwave"
+	{
+		"wave"	"glub/sisfiles/sis21.mp3"
+	}
+}
+
+// retreating
+"WitchZombie.RetreatHorror"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_90dB"
+	"pitch"			"95, 105"
+
+	"GameData"
+	{
+		"Priority"	"Interesting"
+	}
+
+	"rndwave"
+	{
+		"wave"	"glub/sisfiles/sis7.mp3"
+		"wave"	"glub/sisfiles/sis8.mp3"
+		"wave"	"glub/sisfiles/sis9.mp3"
+		"wave"	"glub/sisfiles/sis6.mp3"
+	}
+}
+
+// dying
+"WitchZombie.Die"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_90dB"
+	"pitch"			"95, 105"
+
+	"GameData"
+	{
+		"Priority"	"Interesting"
+	}
+
+	"rndwave"
+	{
+		"wave"	"glub/sisfiles/sis24.mp3"
+		"wave"	"glub/sisfiles/sis18.mp3"
+		"wave"	"glub/sisfiles/sis14.mp3"
+		"wave"	"glub/sisfiles/sis5.mp3"
+		"wave"	"glub/sisfiles/newsis3.mp3"
+		"wave"	"glub/sisfiles/newsis4.mp3"
+	}
+}
+
+
+"WitchZombie.HeadShot"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_70dB"
+	"pitch"			"95, 105"
+
+	"rndwave"
+	{
+		"wave"	"glub/sisfiles/sis24.mp3"
+		"wave"	"glub/sisfiles/sis18.mp3"
+		"wave"	"glub/sisfiles/sis14.mp3"
+		"wave"	"glub/sisfiles/sis5.mp3"
+		"wave"	"glub/sisfiles/newsis3.mp3"
+		"wave"	"glub/sisfiles/newsis4.mp3"
+	}
+}
+
+
+"WitchZombie.ShredVictim"
+{
+	"channel"		"CHAN_BODY"
+	"volume"		".7"
+	"soundlevel"	"SNDLVL_70dB"
+	"pitch"			"95, 105"
+
+	"GameData"
+	{
+		"Priority"	"Interesting"
+	}
+
+	"rndwave"
+	{
+		"wave"	"npc/witch/hit/Hit_SlimeSplat3.wav"
+		"wave"	"npc/witch/hit/Hit_SlimeSplat4.wav"
+		"wave"	"npc/witch/hit/Hit_SlimeSplat5.wav"
+	}
+}
+"WitchZombie.Cache"
+{
+	"channel"		"CHAN_BODY"
+	"volume"		".7"
+	"soundlevel"	"SNDLVL_70dB"
+	"pitch"			"95, 105"
+
+	"GameData"
+	{
+		"Priority"	"Interesting"
+	}
+
+	"rndwave"
+	{
+		"wave"	"glub/sisfiles/sis1.mp3"
+		"wave"	"glub/sisfiles/sis2.mp3"
+		"wave"	"glub/sisfiles/sis3.mp3"
+		"wave"	"glub/sisfiles/sis4.mp3"
+		"wave"	"glub/sisfiles/sis5.mp3"
+		"wave"	"glub/sisfiles/sis6.mp3"
+		"wave"	"glub/sisfiles/sis7.mp3"
+		"wave"	"glub/sisfiles/sis8.mp3"
+		"wave"	"glub/sisfiles/sis9.mp3"
+		"wave"	"glub/sisfiles/sis10.mp3"
+		"wave"	"glub/sisfiles/sis11.mp3"
+		"wave"	"glub/sisfiles/sis12.mp3"
+		"wave"	"glub/sisfiles/sis13.mp3"
+		"wave"	"glub/sisfiles/sis14.mp3"
+		"wave"	"glub/sisfiles/sis15.mp3"
+		"wave"	"glub/sisfiles/sis16.mp3"
+		"wave"	"glub/sisfiles/sis17.mp3"
+		"wave"	"glub/sisfiles/sis18.mp3"
+		"wave"	"glub/sisfiles/sis19.mp3"
+		"wave"	"glub/sisfiles/sis20.mp3"
+		"wave"	"glub/sisfiles/sis21.mp3"
+		"wave"	"glub/sisfiles/sis22.mp3"
+		"wave"	"glub/sisfiles/sis23.mp3"
+		"wave"	"glub/sisfiles/sis24.mp3"
+		"wave"	"glub/sisfiles/sis25.mp3"
+		"wave"	"glub/sisfiles/sis26.mp3"
+		"wave"	"glub/sisfiles/sis27.mp3"
+		"wave"	"glub/sisfiles/sis28.mp3"
+		"wave"	"glub/sisfiles/sis29.mp3"
+		"wave"	"glub/sisfiles/sis30.mp3"
+		"wave"	"glub/sisfiles/bigsis.mp3"
+		"wave"	"glub/sisfiles/bigsis2.mp3"
+		"wave"	"glub/sisfiles/bigsis3.mp3"
+		"wave"	"glub/sisfiles/bigsis4.mp3"
+		"wave"	"glub/sisfiles/bigsis5.mp3"
+		"wave"	"glub/sisfiles/bigsis6.mp3"
+		"wave"	"glub/sisfiles/bigsis7.mp3"
+		"wave"	"glub/sisfiles/bigsis8.mp3"
+		"wave"	"glub/sisfiles/bigsis9.mp3"
+		"wave"	"glub/sisfiles/bigsis10.mp3"
+		"wave"	"glub/sisfiles/newsis1.mp3"
+		"wave"	"glub/sisfiles/newsis2.mp3"
+		"wave"	"glub/sisfiles/newsis3.mp3"
+		"wave"	"glub/sisfiles/newsis4.mp3"
+		"wave"	"glub/sisfiles/newsis5.mp3"
+		"wave"	"glub/sisfiles/newsis6.mp3"
+	}
+}
+
+// Sis Claw
+//------------------------------------------------------------------
+"claw.open"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_90dB"
+	"pitch"			"95, 105"
+
+	"GameData"
+	{
+		"Priority"	"Interesting"
+	}
+
+	"rndwave"
+	{
+		"wave"	"glub/sisfiles/claw_open.mp3"
+	}
+}
+"claw.close"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_90dB"
+	"pitch"			"95, 105"
+
+	"GameData"
+	{
+		"Priority"	"Interesting"
+	}
+
+	"rndwave"
+	{
+		"wave"	"glub/sisfiles/claw_close.mp3"
+	}
+}
+"claw.closehard"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_90dB"
+	"pitch"			"95, 105"
+
+	"GameData"
+	{
+		"Priority"	"Interesting"
+	}
+
+	"rndwave"
+	{
+		"wave"	"glub/sisfiles/claw_closehard.mp3"
+	}
+}
+"claw.drop"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_100dB"
+	"pitch"			"80, 110"
+
+	"GameData"
+	{
+		"Priority"	"Interesting"
+	}
+
+	"rndwave"
+	{
+		"wave"	"glub/sisfiles/sis2.mp3"
+		"wave"	"glub/sisfiles/sis5.mp3"
+		"wave"	"glub/sisfiles/sis15.mp3"
+		"wave"	"glub/sisfiles/sis25.mp3"
+		"wave"	"glub/sisfiles/sis26.mp3"
+	}
+}
+
+"sis.goo"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_100dB"
+	"pitch"			"95, 105"
+
+	"GameData"
+	{
+		"Priority"	"Interesting"
+	}
+
+	"rndwave"
+	{
+		"wave"	"glub4/sisplooter.mp3"
+	}
+}
+
+// Witch Silence 
+//------------------------------------------------------------------
+"Event.WitchAttack"  
+ {
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"common/null.wav"
+	
+	GameData
+	{
+		"MusicDuckTrackList"    "tank"
+		"MusicBlockTrackList"    "zombat, zombat2, zombat3, zombatIntro, ambient"
+
+		"MusicTrack"            "witch"
+		"MusicPriority"			"CRITICAL"
+	}
+
+}
+"Event.WitchBurning"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"common/null.wav"
+  
+	
+	GameData
+	{
+		"MusicDuckTrackList"    "tank"
+		"MusicBlockTrackList"    "zombat, zombat2, zombat3, zombatIntro, ambient"
+
+		"MusicTrack"            "witch"
+		"MusicPriority"			"CRITICAL" 
+	}
+
+}
+
+"Event.WitchRage"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"		"SNDLVL_NONE"
+	"wave"	"common/null.wav"
+	
+	GameData
+	{
+		"MusicTrack"            "witch"
+		"MusicPriority"			"CRITICAL"
+	}
+}
+
+"Event.WitchDead"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"common/null.wav"
+
+	GameData
+	{
+		"MusicTrack"            "witch"
+	}
+}
+
+"Event.WanderingWitch"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_145dB"
+
+	"rndwave"
+	{
+		"wave"	"common/null.wav"
+	}	
+	GameData
+	{
+		"MusicTrack"            "witchChoir"
+		"MusicPriority"			"CRITICAL"
+		"MusicFadeOut"         	"1.5"
+
+	}
+}
+"Event.WanderingAngryWitch"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"0.87"
+	"soundlevel"	"SNDLVL_NONE"
+
+	"rndwave"
+	{
+		"wave"	"common/null.wav"
+	}	
+	GameData
+	{
+		"MusicTrack"            "witchChoir"
+		"MusicPriority"			"CRITICAL"
+		"MusicFadeOut"         	"1.5"
+	}
+}
+"Event.WanderingAngryWitch2"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"0.87"
+	"soundlevel"	"SNDLVL_NONE"
+
+	"rndwave"
+	{
+		"wave"	"common/null.wav"
+	}	
+	GameData
+	{
+		"MusicTrack"            "witchChoir"
+		"MusicPriority"			"CRITICAL"
+		"MusicFadeOut"         	"1.5"
+	}
+}
+"Event.WanderingAngryWitch3"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"0.87"
+	"soundlevel"	"SNDLVL_NONE"
+
+	"rndwave"
+	{
+		"wave"	"common/null.wav"
+	}	
+	GameData
+	{
+		"MusicTrack"            "witchChoir"
+		"MusicPriority"			"CRITICAL"
+		"MusicFadeOut"         	"1.5"
+	}
+}
+"Event.WanderingAngryWitch4"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"0.87"
+	"soundlevel"	"SNDLVL_NONE"
+
+	"rndwave"
+	{
+		"wave"	"common/null.wav"
+	}	
+	GameData
+	{
+		"MusicTrack"            "witchChoir"
+		"MusicPriority"			"CRITICAL"
+		"MusicFadeOut"         	"1.5"
+	}
+}
+// Misc
+//------------------------------------------------------------------
+"Event.FinalBattle"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"0.88"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"			"@#music/the_end/skinonourteeth_l4d1.wav"
+
+	GameData
+	{
+		"MusicTrack"            "default"
+		"MusicPriority"			"HIGH"
+		"MusicFadeOut"         	"2.0"
+		"MusicBlockTrackList"   "zombat, zombat2, zombat3, zombatIntro, ambient, tank"
+		"MusicStopTrackList"    "zombat, zombat2, zombat3, zombatIntro, ambient, tank"
+
+	}
+}
+
+"Event.ScenarioWin"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+}
+// Sis King Phase 1
+//------------------------------------------------------------------
+"SisKing.HitFX"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_100dB"
+	"pitch"			"100"
+
+	"GameData"
+	{
+		"Priority"	"Interesting"
+	}
+	"wave"			"glub4/SisKing/hit.mp3"
+}
+"SisKing.Hit"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_100dB"
+	"pitch"			"80, 110"
+
+	"GameData"
+	{
+		"Priority"	"Interesting"
+	}
+
+	"rndwave"
+	{
+		"wave"	"glub4/SisKing/sisnew6.mp3"
+		"wave"	"glub4/SisKing/sisnew7.mp3"
+		"wave"	"glub4/SisKing/sisnew20.mp3"
+		"wave"	"glub4/SisKing/sisnew31.mp3"
+		"wave"	"glub4/SisKing/sisnew39.mp3"
+		"wave"	"glub4/SisKing/sisnew41.mp3"
+	}
+}
+"SisKing.Consume"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_100dB"
+	"pitch"			"100"
+
+	"GameData"
+	{
+		"Priority"	"Interesting"
+	}
+	"wave"			"glub4/SisKing/consume.mp3"
+}
+"SisKing.Death"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_100dB"
+	"pitch"			"100"
+
+	"GameData"
+	{
+		"Priority"	"Interesting"
+	}
+	"wave"			"glub4/SisKing/death_voice.mp3"
+}
+// Sis King Phase 2
+//------------------------------------------------------------------
+"SisKing.Damage.Eye"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_100dB"
+	"pitch"			"100"
+
+	"GameData"
+	{
+		"Priority"	"Interesting"
+	}
+	"wave"			"glub4/SisKing/sisking_dmg2.mp3"
+}
+"SisKing.Damage.Arm"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_100dB"
+	"pitch"			"100"
+
+	"GameData"
+	{
+		"Priority"	"Interesting"
+	}
+	"wave"			"glub4/SisKing/sisking_dmg1.mp3"
+}
+"SisKing.Die1"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_100dB"
+	"pitch"			"100"
+
+	"GameData"
+	{
+		"Priority"	"Interesting"
+	}
+	"wave"			"glub4/SisKing/sisking_die1.mp3"
+}
+"SisKing.Die2"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_100dB"
+	"pitch"			"100"
+
+	"GameData"
+	{
+		"Priority"	"Interesting"
+	}
+	"wave"			"glub4/SisKing/sisking_die2.mp3"
+}
+"SisKing.Die3"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_100dB"
+	"pitch"			"100"
+
+	"GameData"
+	{
+		"Priority"	"Interesting"
+	}
+	"wave"			"glub4/SisKing/sisking_die3.mp3"
+}
+"SisKing.Scream"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_100dB"
+	"pitch"			"100"
+
+	"GameData"
+	{
+		"Priority"	"Interesting"
+	}
+	"wave"			"glub4/SisKing/sisking_scream.mp3"
+}
+
+"glubtastical"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"			"@#glub4/Chocolate Helicopter.mp3"
+	
+	GameData
+	{
+		"MusicTrack"            "tank"
+		"MusicPriority"			"CRITICAL"
+		"MusicBlockTrackList"    "zombat, zombat2, zombat3, zombatIntro, ambient"
+		"MusicStopTrackList"    "concert1, concert2"
+	}
+}

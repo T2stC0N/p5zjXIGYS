@@ -1,0 +1,23 @@
+WorldVertexTransition
+{
+$basetexture2 "req/stonetile"
+$basetexture "req/leaves"
+
+$bumpmap2 "req/stonetile_ss"
+$bumpmap	"req/kusa_ssbump"
+
+$ssbump	1
+$ssbumpmathfix	1
+
+$blendmodulatetexture	"lighthouse/blend/modulate_leaves"
+ 
+//$envmap "env_cubemap"
+//$normalmapalphaenvmapmask	1
+//$envmaptint	"[.1 .1 .1]"
+
+//$seamless_scale 0.01
+
+//"%detailtype" urban_overgrown_ranged
+$surfaceprop grass
+$surfaceprop2 stone
+}

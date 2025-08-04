@@ -1,0 +1,19 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "greek/marble_wall_01"
+	$bumpmap		"req/marble_floor_n"
+	
+	$envmap env_cubemap
+	$basemapalphaenvmapmask 1
+	$envmaptint "[.15 .15 .15]"
+
+	"%keywords" "tf"
+
+	"$surfaceprop" "rock"
+}
+
+
+
+
+
+

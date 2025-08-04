@@ -1,0 +1,23 @@
+"VertexLitGeneric"
+{
+	$basetexture			"models/weapons/louis_gun/mag_c"
+	$bumpmap				"models/weapons/louis_gun/mag_n"
+	$phongexponenttexture	"models/weapons/louis_gun/mag_s"
+	$color2 "[.25 .25 .25]"
+	$blendtintbybasealpha "1"
+
+	$phong	"1"
+	$phongboost	"5"
+	$phongfresnelranges	"[.78 .9 1]"
+	$phongalbedotint "1"
+
+	$envmap	"env_cubemap"
+	$envmaptint	"{77 53 26}"
+	$normalmapalphaenvmapmask	"1"
+	$envmapfresnel	"1"
+
+	$rimlight	"1"
+	$rimmask	"1"
+	$rimlightboost	"1"
+	$rimlightexponent	"2"
+}

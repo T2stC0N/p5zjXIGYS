@@ -1,0 +1,6 @@
+sky
+{
+$hdrbaseTexture "skybox/black"
+$nofog 1
+$ignorez 1
+}

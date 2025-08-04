@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+	$basetexture						"models/requiem/park_entrance_base"
+	$bumpmap 						"models/requiem/park_entrance_base_n"
+	
+	$detail								"grunge/rough"
+	$detailblendfactor			.25
+	$detailscale						1.5
+	$detailblendmode			0
+}

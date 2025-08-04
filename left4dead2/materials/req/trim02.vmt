@@ -1,0 +1,5 @@
+LightmappedGeneric
+{
+	$basetexture "req/trim02"
+	$surfaceprop	stone
+}

@@ -1,0 +1,18 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "greek/marble_wall_01a"
+	"$bumpmap" "greek/marble_wall_01_bump"
+	$ssbump 1
+	"$detailscale" "[2.1 4.2]"
+	"$detailblendmode" "0"
+	"$detailblendfactor" "1"
+	"%keywords" "tf"
+	$ssbumpmathfix	1
+	"$surfaceprop" "concrete"
+}
+
+
+
+
+
+

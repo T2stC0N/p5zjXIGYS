@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models\props_odyssey/boulder1_odyssey"
+	"$halflambert" "0"
+	
+	$detail 					"grunge/rough"
+	$detailblendmode	0
+	$detailblendfactor	.35
+	$detailscale				2
+}

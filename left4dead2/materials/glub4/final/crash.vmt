@@ -1,0 +1,13 @@
+"unlitgeneric"
+{
+	"$basetexture" "glub4/final/crash"
+	"Proxies" 
+	{ 
+		"AnimatedTexture" 
+		{
+			"animatedTextureVar" "$basetexture" 
+			"animatedTextureFrameNumVar" "$frame" 
+			"animatedTextureFrameRate" "10"
+		 } 
+	} 
+}

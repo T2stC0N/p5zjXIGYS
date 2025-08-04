@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+
+$baseTexture "models\foliage\lily_flower"
+
+$blendtintbybasealpha "1"
+$nocull 1
+
+}

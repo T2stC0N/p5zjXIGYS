@@ -1,0 +1,20 @@
+WorldVertexTransition
+{
+$basetexture2 "req/dirt"
+$basetexture "req/kusa"
+
+//$bumpmap2 "req/dirt_ssbump"
+$bumpmap "concrete/pavement2_height-ssbump"
+$envmap env_cubemap
+$normalmapalphaenvmapmask 1
+$envmaptint "[.12 .14 .15]"
+$ssbump	1
+$ssbumpmathfix	1
+
+$blendmodulatetexture	"grunge/grunge"
+
+//$seamless_scale 0.005
+
+"%detailtype" urban_overgrown_ranged
+$surfaceprop mud
+}

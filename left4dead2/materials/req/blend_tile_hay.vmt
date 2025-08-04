@@ -1,0 +1,23 @@
+WorldVertexTransition
+{
+$basetexture2 "req/stonetile"
+$basetexture "req/hay"
+
+$bumpmap2 "req/stonetile_ss"
+$bumpmap "req/kusa_ssbump"
+
+$ssbump	1
+$ssbumpmathfix	1
+
+$blendmodulatetexture	"grunge/hay"
+
+//$envmap "env_cubemap"
+//$normalmapalphaenvmapmask	1
+//$envmaptint	"[.1 .1 .1]"
+
+//$seamless_scale 0.01
+
+//%detailtype urban_grass_overgrown
+$surfaceprop grass
+$surfaceprop2 stone
+}

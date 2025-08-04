@@ -1,0 +1,11 @@
+LightmappedGeneric
+{
+	$basetexture "greek/greek_ground03b"
+	$bumpmap "greek/greek_ground03b_ssbump"
+	$surfaceprop Concrete
+	$ssbump 1
+	$ssbumpmathfix	1
+	
+	$color	"{200 54 35}"
+	%keywords "tf, greek, greece, hades"
+}

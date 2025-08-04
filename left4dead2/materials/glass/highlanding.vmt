@@ -1,6 +1,0 @@
-UnlitGeneric
-{
-$baseTexture "glass\highlanding"
-$translucent	1
-$surfaceprop	glass
-}

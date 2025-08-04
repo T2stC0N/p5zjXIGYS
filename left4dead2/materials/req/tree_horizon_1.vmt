@@ -1,7 +1,0 @@
-LightmappedGeneric
-{
-	$basetexture "req/tree_horizon_1"
-	//$alphatest	1
-	//$allowalphatocoverage	1
-	$translucent	1
-}

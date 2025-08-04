@@ -1,6 +1,0 @@
-LightmappedGeneric
-{
-	$basetexture "req/hay"
-	$bumpmap "req/hay_n"
-	$surfaceprop grass
-}

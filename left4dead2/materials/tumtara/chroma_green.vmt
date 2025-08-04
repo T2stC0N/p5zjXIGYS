@@ -1,8 +1,0 @@
-UnlitGeneric
-{
- 	$color "[ 0 1 0 ]"
-	$nofog 1
-	$surfaceprop default_silent
-	$nodecal "1"
-}
-

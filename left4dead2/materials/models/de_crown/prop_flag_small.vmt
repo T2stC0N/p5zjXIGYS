@@ -1,5 +1,0 @@
-"VertexLitGeneric"
-{
-$basetexture	"models/de_crown/prop_flag_small"
-$nocull 1
-}

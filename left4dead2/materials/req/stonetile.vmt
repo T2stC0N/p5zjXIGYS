@@ -1,8 +1,0 @@
-LightmappedGeneric
-{
-	$basetexture "req/stonetile"
-	$bumpmap "req/stonetile_ss"
-	$surfaceprop	rock
-	$ssbump	1
-	$ssbumpmathfix	1
-}

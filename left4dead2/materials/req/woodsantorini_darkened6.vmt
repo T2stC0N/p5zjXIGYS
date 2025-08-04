@@ -1,9 +1,0 @@
-"LightmappedGeneric"
-{
-$baseTexture "req/wood_plank_a"
-
-$surfaceprop wood
-$bumpmap "req/wood_plank_a_normals"
-	
-$color	"[.6 .6 .6]"
-}

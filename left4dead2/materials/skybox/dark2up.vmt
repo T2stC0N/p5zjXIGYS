@@ -1,9 +1,0 @@
-"sky"
-{
-	"$baseTexture" "skybox/darkup"
-	"$hdrbasetexture" "skybox/darkup"
-	"$nofog" 1
-	"$ignorez" 1
-	
-	"$basetexturetransform" "center .5 .5 scale 1 1 rotate -90 translate 0 0"
-}

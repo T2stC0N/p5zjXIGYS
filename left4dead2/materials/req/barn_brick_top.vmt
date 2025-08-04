@@ -1,6 +1,0 @@
-LightmappedGeneric
-{
-	$basetexture "req/barn_brick_top_d"
-	$bumpmap "req/barn_brick_n"
-	$surfaceprop Brick
-}

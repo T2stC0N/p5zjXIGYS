@@ -1,6 +1,0 @@
-LightmappedGeneric
-{
-	$basetexture "req/rooftiles_roman_worn"
-	$bumpmap "req/rooftiles_roman_n"
-	$surfaceprop	tile
-}

@@ -1,9 +1,0 @@
-"sky"
-{
-	"$baseTexture" "skybox/setting_skyrt"
-	"$hdrbasetexture" "skybox/setting_skyrt"
-
-	"$nofog" 1
-	"$ignorez" 1
-}
-

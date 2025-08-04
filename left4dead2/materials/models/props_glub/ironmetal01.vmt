@@ -1,5 +1,0 @@
-vertexlitgeneric
-{
-$baseTexture "cs_italy/ironmetal01"
-$surfaceprop metal
-}

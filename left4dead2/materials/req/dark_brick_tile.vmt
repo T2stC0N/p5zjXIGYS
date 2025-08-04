@@ -1,6 +1,0 @@
-LightmappedGeneric
-{
-	"$basetexture" "req/dark_brick_tile"
-	"$bumpmap" "req/dark_brick_tile_n"
-	"$surfaceprop" "Brick"
-}

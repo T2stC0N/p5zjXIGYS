@@ -1,8 +1,0 @@
-VertexLitGeneric
-{
-	$basetexture "models\myth\myth"
-	$halflambert	0
-	$diffuseexp	5
-	$nodecal	1
-	$nocull	1
-}

@@ -1,9 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "models/nozomi/face"
-	$bumpmap "dev/flat_normal"
-	$lightwarptexture "models/nozomi/facewarp"
-
-	"$halflambert" 1
-	"$nodecal" 1
-}

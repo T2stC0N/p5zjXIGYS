@@ -1,9 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "models/fuuka/body"
-	$bumpmap "dev/flat_normal"
-	$lightwarptexture "models/fuuka/facewarp"
-
-	"$halflambert" 1
-	"$nodecal" 1
-}

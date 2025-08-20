@@ -1,6 +1,0 @@
-LightmappedGeneric
-{
-	$basetexture "req/wallstone"
-	$bumpmap "req/wallstone_n"
-	$surfaceprop	rock
-}

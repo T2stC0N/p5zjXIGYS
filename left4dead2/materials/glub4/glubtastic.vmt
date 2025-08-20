@@ -1,6 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "glub4/glubtastic"
-	$alphatest 1
-      	$allowalphatocoverage 1
-}

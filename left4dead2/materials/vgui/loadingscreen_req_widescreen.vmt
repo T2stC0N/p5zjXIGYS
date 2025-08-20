@@ -1,6 +1,0 @@
-UnlitGeneric
-{
-$baseTexture "vgui\requiem"
-$ignorez 1
-$no_fullbright 1
-}

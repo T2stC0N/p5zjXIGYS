@@ -1,6 +1,0 @@
-LightmappedGeneric
-{
-	$basetexture "req/hr_sidewalk_b_h_d"
-	$bumpmap "req/hr_sidewalk_b_h_n"
-	$surfaceprop Concrete
-}

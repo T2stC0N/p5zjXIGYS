@@ -1,6 +1,0 @@
-LightmappedGeneric
-{
-	$basetexture "req/wall_trim_d"
-	$bumpmap "req/wall_trim_n"
-	$surfaceprop	stone
-}

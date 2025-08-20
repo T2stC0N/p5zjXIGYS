@@ -1,8 +1,0 @@
-UnlitGeneric
-{
-	"$basetexture" "TUMTaRA/Tumtara5"
-	$alphatest 1
-	$allowalphatocoverage 1
-	$surfaceprop default_silent
-	$nodecal "1"
-}

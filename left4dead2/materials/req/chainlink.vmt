@@ -1,9 +1,0 @@
-LightmappedGeneric
-{
-	$basetexture 	"req/chainlink"
-	$envmapmask 	"req/chainlink"
-	$surfaceprop	"chainlink"
-	$alphatest		"1"
-
-	"%compilepassbullets" 1
-}

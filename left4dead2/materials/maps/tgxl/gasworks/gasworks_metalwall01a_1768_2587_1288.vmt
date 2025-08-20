@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/GASWORKS/GASWORKS_METALWALL01A.vmt"
-	"replace"
-	{
-		"$envmap"		"maps/tgxl/c1768_2587_1288"
-	}
-}

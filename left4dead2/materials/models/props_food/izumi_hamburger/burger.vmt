@@ -1,5 +1,0 @@
-"VertexLitGeneric"
-{
-	$basetexture "models\props_food\izumi_hamburger\Burger_D"
-	$bumpmap	 "models\props_food\izumi_hamburger\Burger_N"
-}
